@@ -1,4 +1,3 @@
-# Clase Libro
 class Libro:
     def __init__(self, titulo, autor, isbn):
         self.__titulo = titulo
